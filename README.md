@@ -7,3 +7,15 @@
 `git add "fichier"`
 `git commit`
 `git log`
+
+`git diff`
+`git show "hash"`
+`git push`
+`git pull`
+`git checkout -b "name"`
+
+`git branch`
+`git merge "name"`
+`git restore "fichier"`
+`git clean . -f`
+`git commit --amend`
