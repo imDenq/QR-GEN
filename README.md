@@ -27,4 +27,4 @@ Voici une liste de commandes Git utiles pour votre projet :
 - Modifier le dernier commit : `git commit --amend`
 
 # Conclusion
-    En résumé, GitHub s'impose comme un outil incontournable pour les développeurs, tant pour la gestion collaborative des projets que pour l'établissement d'une présence professionnelle en ligne. Sa popularité croissante souligne son importance dans le domaine de la programmation et son impact positif sur la productivité et l'efficacité des équipes de développement.
+En résumé, GitHub s'impose comme un outil incontournable pour les développeurs, tant pour la gestion collaborative des projets que pour l'établissement d'une présence professionnelle en ligne. Sa popularité croissante souligne son importance dans le domaine de la programmation et son impact positif sur la productivité et l'efficacité des équipes de développement.
