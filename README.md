@@ -2,8 +2,8 @@
 
 # Voici une liste de commandes 
 
-git init
-git status
-git add "fichier"
-git commit
-git log
+`git init`
+`git status`
+`git add "fichier"`
+`git commit`
+`git log`
