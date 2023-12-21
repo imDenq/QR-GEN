@@ -1,7 +1,7 @@
 import qrcode
 import os
 
-data = "salut toi ekip"
+data = "salut toi, comment va l'équipe"
 
 qr = qrcode.QRCode(
     version=1,
