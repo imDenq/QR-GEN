@@ -30,7 +30,8 @@ Supprime les fichiers non suivis dans le répertoire de travail de manière forc
 - Modifier le dernier commit :`git commit --amend`  
 Permet de modifier le dernier commit en ajoutant des modifications supplémentaires ou en modifiant le message de commit.
 
-### Les commandes ayant pas d'impact direct  (nous les appelerons les commandes "view" ou "verif")
+### Les commandes ayant pas d'impact direct
+### nous les appelerons les commandes "view" ou "verif"
 - Vérifier l'état du dépôt :`git status`  
 Affiche l'état des fichiers dans le dépôt, montrant les modifications non enregistrées et les fichiers prêts à être validés.
 
