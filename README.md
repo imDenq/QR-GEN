@@ -12,46 +12,46 @@ Voici une liste de commandes Git utiles pour débuter votre projet
 Apprenez les bien et tester les pour vous entrainez et les prendres en main.
 
 ### Les commmandes ayant un impact direct sur votre projet
-- Initialiser un dépôt Git :
-`git init`: Initialise un nouveau dépôt Git dans le répertoire courant.
+- Initialiser un dépôt Git :`git init`  
+Initialise un nouveau dépôt Git dans le répertoire courant.
 
-- Ajouter un fichier au suivi :
-`git add "fichier"`: Ajoute un fichier spécifié au suivi, préparant les modifications pour le prochain commit.
+- Ajouter un fichier au suivi :`git add "fichier"`  
+Ajoute un fichier spécifié au suivi, préparant les modifications pour le prochain commit.
 
-- Effectuer un commit :
-`git commit`: Enregistre les modifications ajoutées au suivi, créant un nouveau commit dans l'historique.
+- Effectuer un commit :`git commit`  
+Enregistre les modifications ajoutées au suivi, créant un nouveau commit dans l'historique.
 
-- Restaurer un fichier précédent :
-`git restore "fichier"`: Annule les modifications apportées à un fichier, le restaurant à sa version précédente.
+- Restaurer un fichier précédent :`git restore "fichier"`  
+Annule les modifications apportées à un fichier, le restaurant à sa version précédente.
 
-- Supprimer les fichiers non suivis :
-`git clean . -f`: Supprime les fichiers non suivis dans le répertoire de travail de manière forcée.
+- Supprimer les fichiers non suivis :`git clean . -f`  
+Supprime les fichiers non suivis dans le répertoire de travail de manière forcée.
 
-- Modifier le dernier commit :
-`git commit --amend`: Permet de modifier le dernier commit en ajoutant des modifications supplémentaires ou en modifiant le message de commit.
+- Modifier le dernier commit :`git commit --amend`  
+Permet de modifier le dernier commit en ajoutant des modifications supplémentaires ou en modifiant le message de commit.
 
-### Les commandes ayant pas d'impact direct (nous les appelerons les commandes "view" ou "verif")
-- Vérifier l'état du dépôt :
-`git status`: Affiche l'état des fichiers dans le dépôt, montrant les modifications non enregistrées et les fichiers prêts à être validés.
+### Les commandes ayant pas d'impact direct  (nous les appelerons les commandes "view" ou "verif")
+- Vérifier l'état du dépôt :`git status`  
+Affiche l'état des fichiers dans le dépôt, montrant les modifications non enregistrées et les fichiers prêts à être validés.
 
-- Voir l'historique des commits :
-`git log`: Affiche l'historique des commits avec des détails tels que l'auteur, la date et le message de commit.
+- Voir l'historique des commits :`git log`  
+Affiche l'historique des commits avec des détails tels que l'auteur, la date et le message de commit.
 
-- Voir les modifications non validées :
-`git diff`: Montre les modifications entre le répertoire de travail et la dernière version enregistrée.
+- Voir les modifications non validées :`git diff`  
+Montre les modifications entre le répertoire de travail et la dernière version enregistrée.
 
-- Afficher les détails d'un commit :
-`git show "hash"`: Affiche les détails d'un commit spécifique en utilisant son identifiant unique (hash).
+- Afficher les détails d'un commit :`git show "hash"`  
+Affiche les détails d'un commit spécifique en utilisant son identifiant unique (hash).
 
-- Afficher la liste des branches :
-`git branch`: Affiche la liste des branches locales et met en évidence la branche actuelle.
+- Afficher la liste des branches :`git branch`  
+Affiche la liste des branches locales et met en évidence la branche actuelle.
 
 ### Les deux commandes permettant de communiquer avec GitHub
-- Pousser les modifications vers le dépôt distant :
-`git push`: Envoie les commits locaux vers le dépôt distant, mettant à jour l'historique.
+- Pousser les modifications vers le dépôt distant :`git push`  
+Envoie les commits locaux vers le dépôt distant, mettant à jour l'historique.
 
-- Récupérer les modifications depuis le dépôt distant :
-`git pull`: Récupère les modifications du dépôt distant et les fusionne avec la branche locale actuelle.
+- Récupérer les modifications depuis le dépôt distant :`git pull`  
+Récupère les modifications du dépôt distant et les fusionne avec la branche locale actuelle.
 
 
 ## Les Branches sur GitHub
